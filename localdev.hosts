@@ -1,0 +1,6 @@
+# It follows /etc/hosts format for more info man 5 hosts
+127.0.0.1	www.localdev
+127.0.0.1	api.localdev
+127.0.0.1	mysql.localdev
+127.0.0.1	rabbitmq.localdev
+127.0.0.1	redis.localdev
